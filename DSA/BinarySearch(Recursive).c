@@ -2,6 +2,8 @@
 // Time Complexity : O(N)
 // Space Complexity : O(1)
 // Auxiliary Space Complexity : O(N) due to function call stack
+
+
 #include <stdio.h>
 
 int binarySearch(int arr[], int left, int right, int item){
